@@ -14,7 +14,7 @@
 
 ```ts
 const jhanric = {
-  based:     "Philippines 🇵🇭",
+  based:     "Philippines",
   builds:    "things for the web",
   daily:     ["TypeScript", "Next.js", "Tailwind"],
   also:      ["Rust", "Python", "C++", "Vue"],
@@ -34,9 +34,11 @@ const jhanric = {
 
 <h3 align="center">currently</h3>
 
-- 🎋 contributing to **[Kawayan AI](https://github.com/Golgrax/Kawayan)**: an AI content engine that plans and writes Taglish social posts for Philippine MSMEs <sub>(TypeScript · Gemini · Ollama)</sub>
-- 🛠️ rebuilding my personal site
-- 🎧 music on, always (see below)
+<p align="center">
+  <img src="https://api.iconify.design/lucide/sprout.svg?color=%23ff0000&height=16" height="16" alt="" />&nbsp; contributing to <a href="https://github.com/Golgrax/Kawayan"><b>Kawayan AI</b></a>, an AI content engine for Philippine MSMEs<br />
+  <img src="https://api.iconify.design/lucide/hammer.svg?color=%23ff0000&height=16" height="16" alt="" />&nbsp; rebuilding my personal site<br />
+  <img src="https://api.iconify.design/lucide/headphones.svg?color=%23ff0000&height=16" height="16" alt="" />&nbsp; music on, always
+</p>
 
 <h3 align="center">on repeat</h3>
 
